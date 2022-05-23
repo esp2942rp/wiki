@@ -14,10 +14,10 @@ básicas. Estas son:
        
 ## Índice
        
-        - ¿Qué es Polis y Kacos?
+        - ¿Qué es Polis y Kacos? (Sin completar / se necesita colaboración)
         - Normativas.
         - Facciones
-        - Información sobre el creador
-        - Derechos de autor (wiki)
+        - Información sobre el creador (Sin completar / se necesita colaboración)
+        - Derechos de autor (wiki) (Sin completar / un administrador pondrá el artículo)
        
 > Escrito con [StackEdit](https://stackedit.io/).
